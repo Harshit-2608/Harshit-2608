@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit-2608
 - 👀 I’m interested in SQL, Python
-- 🌱 I’m currently learning Data analysis
+- 🌱 I’m currently learning Data analysis through coding
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me through email
 
